@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on voluro
-- 🌱 I’m currently learning Python 3
+- 🌱 I finished learning Python 3
 - 👯 I’m looking to collaborate on nothing
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about problems with python code
